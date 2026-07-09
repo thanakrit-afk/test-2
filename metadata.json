@@ -1,0 +1,6 @@
+{
+  "name": "Student Face Attendance System",
+  "description": "ระบบเช็คชื่อนักเรียนด้วยใบหน้า รองรับการดึงข้อมูลจาก Google Sheets ลงทะเบียนใบหน้า และระบบสำหรับครูและแอดมินในการจัดการข้อมูล",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
